@@ -1,8 +1,8 @@
 import pytest
 
-from pysild import validate
-from pysild import Integrity
-from pysild import IntegrityError
+from pyasil import validate
+from pyasil import Integrity
+from pyasil import IntegrityError
 
 valid_asil = [
     " ASIL_D ",

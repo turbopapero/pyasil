@@ -1,4 +1,4 @@
-# pysild
+# pyasil
 
 Uilities to manage ISO26262 safety integrity levels tags
 
@@ -28,5 +28,5 @@ The library allows parsing such strings and validating their format, comparing t
 Simply install the library with `pip`, for instance:
 
 ```shell 
-python -m pip install pysild
+python -m pip install pyasil
 ```

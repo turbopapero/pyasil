@@ -5,7 +5,7 @@ requires = [
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "pysild"
+name = "pyasil"
 description = "Utilities to deal with safety integrity levels"
 authors = [
   {name = "Daniele Faugiana", email = "dan.faugiana@gamil.com"},
